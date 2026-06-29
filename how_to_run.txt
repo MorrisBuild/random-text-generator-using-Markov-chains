@@ -1,6 +1,0 @@
-cd /Users/your_folder
-python3 markov_sherlock.py download
-python3 markov_sherlock.py generate --words 700 --order 2 --seed "Holmes"
-
-
-// copy above commond and paste it in terminal 
